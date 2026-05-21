@@ -5634,7 +5634,7 @@ export const docsMenu = {
                         },
                         {
                             name: 'Generic provider',
-                            url: '/docs/llm-analytics/installation/generic',
+                            url: '/docs/ai-observability/installation/generic',
                             icon: 'IconCode',
                         },
                     ],
